@@ -3,7 +3,6 @@
 3D Perlin noise algoritm based on algoritm described in article [Simplex noise demystified](https://weber.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
 
 ![](https://github.com/Manfred-Hastmark/Seedable-3D-perlin-noise/blob/main/example.JPG?raw=true)
-Example of what the noise can look like
 
 ## Usage
 
